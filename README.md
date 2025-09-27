@@ -5,22 +5,26 @@ A comprehensive introduction to Python programming fundamentals with practical e
 ## 📚 Course Contents
 
 1. **Variables & Data Types**
+
    - Variable declaration and naming conventions
    - Basic data types (`int`, `float`, `str`, `bool`, `list`, `dict`)
    - Type conversion and manipulation
 
 2. **String Operations**
+
    - String methods (`upper()`, `lower()`, `title()`, `strip()`)
    - String concatenation and formatting
    - String slicing and indexing
 
 3. **Data Structures**
+
    - Lists: Ordered, mutable collections
-   - Sets: Unordered collections of unique elements 
+   - Sets: Unordered collections of unique elements
    - Tuples: Immutable sequences
    - Dictionaries: Key-value pairs
 
 4. **Control Flow**
+
    - Conditional statements (`if`, `elif`, `else`)
    - Loops (`for`, `while`)
    - Loop control (`break`, `continue`)
@@ -45,7 +49,7 @@ A comprehensive introduction to Python programming fundamentals with practical e
 ├── README.md
 ├── iniciacion_python/
 │   ├── Ejercicios_python_soluciones.ipynb
-│   ├── Ejercicios_python.ipynb 
+│   ├── Ejercicios_python.ipynb
 │   ├── Iniciacion_python.ipynb
 │   └── img/
 │       └── up.png
